@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Full-Stack-Angular-.Net.props" />
-</Project>
